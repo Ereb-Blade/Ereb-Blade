@@ -1,8 +1,7 @@
 <!-- EREB — GitHub Profile README -->
 <div align="center">
 
-<!-- Баннер — не трогаем -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c4dff&height=250&section=header&text=EREB&fontSize=80&fontAlignY=40&desc=C++%20|%20C%23%20|%20Developer&descAlignY=60&descAlign=50" alt="EREB Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c4dff&height=250&section=header&text=EREB&fontSize=80&fontAlignY=40&desc=C%2B%2B%20%7C%20C%23%20%7C%20Developer&descAlignY=60&descAlign=50" alt="EREB Banner" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=7C4DFF&center=true&vCenter=true&width=560&lines=C%2B%2B+%26+C%23+Developer;Systems+%26+Desktop+Programming;Writing+fast+%26+clean+code" alt="Typing SVG" />
 
@@ -31,6 +30,7 @@ namespace EREB {
 ![C#](https://img.shields.io/badge/C%23-9B4FCA?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -81,6 +81,7 @@ namespace EREB {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ereb--Blade-7C4DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ereb-Blade)
+[![Telegram](https://img.shields.io/badge/Telegram-erebusprojects-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/erebusprojects)
 
 </div>
 
