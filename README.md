@@ -1,16 +1,42 @@
-## Hi there 👋
+<!-- EREB — GitHub Profile README -->
 
-<!--
-**Ereb-Blade/Ereb-Blade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+```
+███████╗██████╗ ███████╗██████╗
+██╔════╝██╔══██╗██╔════╝██╔══██╗
+█████╗  ██████╔╝█████╗  ██████╔╝
+██╔══╝  ██╔══██╗██╔══╝  ██╔══██╗
+███████╗██║  ██║███████╗██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝╚═════╝
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**C++ · C# · Developer**
+
+</div>
+
+---
+
+### // stack
+
+![C++](https://img.shields.io/badge/C++-17%2F20-5a7fb5?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-.NET-9b72cf?style=flat-square&logo=dotnet&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-2022%2F2026-7c4dff?style=flat-square&logo=visualstudio&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4b8bbe?style=flat-square&logo=python&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-00adef?style=flat-square&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-e84e31?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### // projects
+
+| project | description | lang |
+|---|---|---|
+| [Desktop-Cat](https://github.com/Ereb-Blade/Desktop-Cat) | Cute desktop companion built with Unity | C# |
+| [Diagrammer-Bot](https://github.com/Ereb-Blade/Diagrammer-Bot) | Telegram bot for diagram generation | Python |
+
+---
+
+### // contact
+
+[![GitHub](https://img.shields.io/badge/github.com%2FEreb--Blade-333?style=flat-square&logo=github&logoColor=white)](https://github.com/Ereb-Blade)
