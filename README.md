@@ -4,32 +4,34 @@
 <!-- Баннер — не трогаем -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c4dff&height=250&section=header&text=EREB&fontSize=80&fontAlignY=40&desc=C++%20|%20C%23%20|%20Developer&descAlignY=60&descAlign=50" alt="EREB Banner" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7C4DFF&center=true&vCenter=true&width=500&lines=C%2B%2B+%26+C%23+Developer;Low-level+%26+Systems+Programming;Clean+Code.+No+Bullshit." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=7C4DFF&center=true&vCenter=true&width=560&lines=C%2B%2B+%26+C%23+Developer;Systems+%26+Desktop+Programming;Writing+fast+%26+clean+code" alt="Typing SVG" />
 
 </div>
 
 <br>
 
 ```cpp
-class EREB {
-    std::string focus    = "C++ · C# · .NET";
-    std::string current  = "Systems programming & desktop apps";
-    std::string learning = "Architecture patterns, low-level optimization";
-};
+namespace EREB {
+    constexpr auto focus    = "C++ · C# · .NET";
+    constexpr auto building = "Desktop apps & system-level tools";
+    constexpr auto digging  = "Architecture, low-level optimization";
+    constexpr auto os       = "Windows-first, performance-minded";
+}
 ```
 
 <br>
 
 ---
 
-### ⚙️ Stack
+### Stack
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-9B4FCA?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -40,20 +42,36 @@ class EREB {
 
 ---
 
-### 📊 Stats
+### Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ereb-Blade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C4DFF&icon_color=7C4DFF" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ereb-Blade&theme=tokyonight&hide_border=true&background=0D1117&ring=7C4DFF&fire=7C4DFF&currStreakLabel=7C4DFF" alt="Streak" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ereb-Blade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C4DFF&icon_color=7C4DFF&text_color=C9D1D9&rank_icon=github" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Ereb-Blade&theme=tokyonight&hide_border=true&background=0D1117&ring=7C4DFF&fire=9D6FFF&currStreakLabel=7C4DFF&sideLabels=C9D1D9&dates=8B949E" width="49%"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ereb-Blade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C4DFF" alt="Top Languages" width="40%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ereb-Blade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C4DFF&text_color=C9D1D9&langs_count=6" width="42%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ereb-Blade&theme=tokyonight&no-frame=true&column=6&margin-w=8&title=Stars,Commits,Repositories,Followers,Issues,PullRequest" width="90%"/>
+
 </div>
 
 ---
 
-### 📫 Contact
+### Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ereb-Blade&theme=tokyo-night&bg_color=0D1117&color=7C4DFF&line=7C4DFF&point=FFFFFF&hide_border=true" width="100%"/>
+
+---
+
+### Contact
 
 <div align="center">
 
