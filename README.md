@@ -46,16 +46,22 @@ namespace EREB {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ereb-Blade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C4DFF&icon_color=7C4DFF&text_color=C9D1D9&rank_icon=github" width="49%"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=Ereb-Blade&cc=0D1117&tc=7C4DFF&ic=7C4DFF&bc=0D1117" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=Ereb-Blade&theme=tokyonight&hide_border=true&background=0D1117&ring=7C4DFF&fire=9D6FFF&currStreakLabel=7C4DFF&sideLabels=C9D1D9&dates=8B949E" width="49%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ereb-Blade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C4DFF&text_color=C9D1D9&langs_count=6" width="42%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ereb-Blade&theme=tokyonight&hide_border=true" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ereb-Blade&theme=tokyonight&hide_border=true" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ereb-Blade&theme=tokyonight&hide_border=true&utcOffset=3" width="32%"/>
 
 </div>
+
+---
+
+### Trophies
 
 <div align="center">
 
@@ -67,7 +73,7 @@ namespace EREB {
 
 ### Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ereb-Blade&theme=tokyo-night&bg_color=0D1117&color=7C4DFF&line=7C4DFF&point=FFFFFF&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ereb-Blade&theme=tokyo-night&bg_color=0D1117&color=7C4DFF&line=7C4DFF&point=FFFFFF&hide_border=true&area=true&area_color=7C4DFF" width="100%"/>
 
 ---
 
