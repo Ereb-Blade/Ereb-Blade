@@ -58,18 +58,6 @@ namespace EREB {
 
 </div>
 
----
-
-### Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ereb-Blade&theme=tokyonight&no-frame=true&column=6&margin-w=8&title=Stars,Commits,Repositories,Followers,Issues,PullRequest" width="90%"/>
-
-</div>
-
----
-
 ### Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ereb-Blade&theme=tokyo-night&bg_color=0D1117&color=7C4DFF&line=7C4DFF&point=FFFFFF&hide_border=true&area=true&area_color=7C4DFF" width="100%"/>
